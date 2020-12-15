@@ -1,0 +1,6 @@
+\begin{figure}[ht!]
+	\centering
+	\includegraphics[width=1\linewidth]{fig4.png}
+	\caption{CTQW on a $4$-dimensional hypercube ($n=4$). Each plot (a)-(d) shows a probability distribution of particle location on a graph at different times: $\Omega t=\frac{\pi}{4}$ (a), $\Omega t=\frac{\pi}{2}$ (b), $\Omega t=3\frac{\pi}{4}$ (c), and $\Omega t=\pi$ (d). The blue dots and red dotes corresponds to execution on the simulator and the real device of IBMQ respectively. Hamming distance indicates the distance at which particle propagated starting from the initial state labeled as ``$0$''.}
+	\label{fig:n=4}
+\end{figure}
