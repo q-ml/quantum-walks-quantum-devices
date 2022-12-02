@@ -1,2 +1,2 @@
-# quantum-walks-on-ibm
-Implementing quantum walks on IBM quantum devices
+Academic research project "Quantum walk processes in quantum devices"
+Anandu Kalleri Madhu, Alexey A. Melnikov, Leonid E. Fedichkin, Alexander Alodjants, and Ray-Kuang Lee
